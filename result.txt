@@ -1,0 +1,4 @@
+Name: mahesh
+Total: 460.0
+Average: 92.00
+Grade: A
